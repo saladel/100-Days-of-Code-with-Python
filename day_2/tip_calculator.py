@@ -26,3 +26,5 @@ splitted = new_bill / num_of_people
 final_bill = round(splitted, 2)
 
 print(f'Each person should pay {final_bill}')
+
+# https://repl.it/@9T9AD/tip-calculator#main.py
