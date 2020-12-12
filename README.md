@@ -1,4 +1,4 @@
-# This is the begining of my 100 days of code with Python
+# This is the begining of my 100 days of code using Python
 
 ## ***Day 1***: Learnt about the input() and len() function, python variables and naming variables.
 
