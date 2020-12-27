@@ -13,3 +13,5 @@
 ## ***Day 3***: Learnt the difference between == (equality sign) and = (assignment sign). Learnt about pythons' if-else statement and how to nest an elif in an if-else statement.
 ###   - Built an odd or even number application. It checks if a number is odd or even. App link: https://repl.it/@9T9AD/day-3-1-exercise#main.py
 ###   - Built a BMI calculator (v2) application. It takes the user bmi and check if the person is underweight, normal weight, overweight or obese. App link: https://repl.it/@9T9AD/day-3-2-exercise#main.py
+###   - Built a Leap Year calculator. You Input a year, It'll check if the year is a leap year or not. This app tested my knowledge in if-else statements and algorithms. This is the link to the algorithm the app follows https://bit.ly/36BjS2D App link: https://repl.it/@9T9AD/day-3-3-exercise#main.py
+###   - Built a Love calculator. It takes both people's names and check for the number of times the letters in the word TRUE occurs. Then check for the number of times the letters in the word LOVE occurs, then combines the numbers to make a 2 digit number. App link: https://repl.it/@9T9AD/day-3-5-exercise#main.py
