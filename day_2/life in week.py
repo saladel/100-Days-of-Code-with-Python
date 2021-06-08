@@ -1,16 +1,22 @@
 # 🚨 Don't change the code below 👇
-age = input("What is your current age?")
+age = input("What is your current age? ")
 # 🚨 Don't change the code above 👆
 
 #First *fork* your copy. Then copy-paste your code below this line 👇
 #Finally click "Run" to execute the tests
 
-int_age = int(age)
+age = int(age)
 
-days = (90 - int_age) * 365
-weeks = (90 - int_age) * 52
-months = (90 - int_age) * 12
+dead_line = 90
 
-print(f'You have {days} days, {weeks} weeks, and {months} months left.')
+age_left = dead_line - age
+
+days_left = age_left * 365
+
+weeks_left = age_left * 52
+
+months_left = age_left * 12
+
+print(f'You have {days_left} days, {weeks_left} weeks, and {months_left} months left.')
 
 # https://repl.it/@9T9AD/lifeinweeks#main.py
