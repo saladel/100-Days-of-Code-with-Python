@@ -7,7 +7,7 @@ age = input("What is your current age? ")
 
 age = int(age)
 
-dead_line = 90
+dead_line = input("At what age do you want to die? ")
 
 age_left = dead_line - age
 
